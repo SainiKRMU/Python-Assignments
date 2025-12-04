@@ -1,0 +1,3 @@
+Total Campus Energy Consumption: 151.10 kWh
+Highest Consuming Building: hostel
+Peak Load Value: 22.30 kWh
