@@ -1,3 +1,16 @@
+#Mini Project Assignment: Library Inventory Manager
+
+#------------------------------------------------------------------------------------------------------
+
+# Course            : Programming for Problem Solving using Python
+# Assignment Title  : Object-Oriented Design and Robust Programming in a Library Management System
+# Name              : Disha Saini
+# Roll no.          : 2501730318
+# Computer Science Engineering (AI & ML)
+# Section           : A
+
+#____________________________________________________________________________________________________
+
 # main.py
 import sys
 import os
@@ -71,3 +84,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
