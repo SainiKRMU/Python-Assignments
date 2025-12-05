@@ -1,0 +1,22 @@
+
+WEATHER DATA ANALYSIS SUMMARY
+
+1. Daily Mean Temperature: 27.33 °C
+
+2. Monthly Rainfall Totals:
+date
+1    19
+2     5
+3     9
+
+3. Correlation Between Humidity and Temperature:
+0.340
+
+4. Monthly Statistical Summary Saved To:
+cleaned_data/monthly_summary.csv
+
+5. Generated Plots:
+- daily_temperature.png
+- monthly_rainfall.png
+- humidity_vs_temperature.png
+- combined_plot.png
