@@ -1,0 +1,6 @@
+,temperature,temperature,temperature,rainfall,humidity
+,mean,min,max,sum,mean
+date,,,,,
+1,23.0,21,25,19,60.0
+2,28.0,26,30,5,58.4
+3,31.0,29,33,9,66.0
